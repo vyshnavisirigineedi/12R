@@ -1,0 +1,14 @@
+<!DOCTYPE>
+<html>
+<head>
+<h2>Registeration Form</h2>
+</head>
+<body>
+ <form>
+     <label for="fname"> First name:</label><br>
+     <label type="text" id="fname" name="fname"></label><br>
+     <label for="lname"> Last name:</label><br>
+     <label type="text" id="lname" name="lname"></label>
+ </form>
+</body>
+</html>
